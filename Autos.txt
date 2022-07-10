@@ -1,0 +1,3 @@
+Micro bus
+Pickup
+Sedan
